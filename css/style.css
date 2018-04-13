@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+body {
+    background: url('https://image.ibb.co/k0DJxS/gradient.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: #fff;
+    font-family: 'Gugi', cursive;
+}
+h3 {
+	padding: 40px 0 40px 0;
+}
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#portfolio {
+	text-align: center;
+}
+.label {
+	margin-left: 20px;
+}
+#js-playerPick_rock {
+	background-color: #777777;
+}
+#js-playerPick_paper {
+	background-color: #5BC0DE;
+}
+#js-playerPick_scissors {
+	background-color: #D9534F;
+}
+.badge {
+	background-color: #5C7467;
+}
